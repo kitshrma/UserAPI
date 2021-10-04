@@ -16,3 +16,4 @@ Integration tests for user endpoint are included, tests for account end point wi
 ## Deploying
 
 ## Additional Information
+To Do : Include swagger, logging and health checks
